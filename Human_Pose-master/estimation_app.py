@@ -23,7 +23,7 @@ height = 368
 inWidth = width
 inHeight = height
 
-net = cv2.dnn.readNetFromTensorflow("graph_opt.pb")
+net = cv2.dnn.readNetFromTensorflow("Human_Pose-master/graph_opt.pb")
 
 
 
